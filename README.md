@@ -80,7 +80,7 @@ Leadership is earned — not granted:
 |---------|-------|----------|
 | 🧮 Hashing Algorithm | `Scrypt` | Memory-hard, resistant to early ASIC monopoly |
 | ⏱️ Block Time | `10 minute` | Fast confirmation + orphan mitigation |
-| 💰 Initial Block Reward | `20 OXG` | Strong early incentives, no hyperinflation |
+| 💰 Initial Block Reward | `2 OXG` | Strong early incentives, no hyperinflation |
 | 📈 Difficulty Adjustment | Every `120 blocks` (~2 hours) | Responsive to network hashrate shifts |
 
 ### 3.2 Deflationary Emission Schedule  
